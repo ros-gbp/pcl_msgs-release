@@ -1,3 +1,24 @@
+## pcl_msgs (jade) - 0.2.0-0
+
+The packages in the `pcl_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release pcl_msgs --track jade --rosdistro jade --new-track` on `Tue, 17 Mar 2015 16:47:21 -0000`
+
+The `pcl_msgs` package was released.
+
+Version of package(s) in repository `pcl_msgs`:
+- upstream repository: https://github.com/ros-perception/pcl_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## pcl_msgs (indigo) - 0.2.0-0
 
 User `paul@asblab-paulpc` released the packages in the `pcl_msgs` repository into the `indigo` distro by running `/usr/bin/bloom-release pcl_msgs --track indigo --rosdistro indigo --edit` on `Thu, 10 Apr 2014 14:34:36 -0000`
