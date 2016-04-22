@@ -1,3 +1,26 @@
+## pcl_msgs (kinetic) - 0.2.0-0
+
+The packages in the `pcl_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic pcl_msgs` on `Fri, 22 Apr 2016 14:34:44 -0000`
+
+The `pcl_msgs` package was released.
+
+Version of package(s) in repository `pcl_msgs`:
+
+- upstream repository: https://github.com/ros-perception/pcl_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## pcl_msgs (jade) - 0.2.0-0
 
 The packages in the `pcl_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release pcl_msgs --track jade --rosdistro jade --new-track` on `Tue, 17 Mar 2015 16:47:21 -0000`
