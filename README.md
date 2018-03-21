@@ -1,3 +1,26 @@
+## pcl_msgs (melodic) - 0.2.0-0
+
+The packages in the `pcl_msgs` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release -t melodic -r melodic pcl_msgs` on `Wed, 21 Mar 2018 17:10:45 -0000`
+
+The `pcl_msgs` package was released.
+
+Version of package(s) in repository `pcl_msgs`:
+
+- upstream repository: https://github.com/ros-perception/pcl_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.3`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## pcl_msgs (lunar) - 0.2.0-0
 
 The packages in the `pcl_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -t lunar -r lunar pcl_msgs` on `Tue, 11 Apr 2017 02:40:46 -0000`
