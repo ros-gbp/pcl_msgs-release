@@ -1,3 +1,26 @@
+## pcl_msgs (noetic) - 0.3.0-1
+
+The packages in the `pcl_msgs` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release --rosdistro noetic --track noetic pcl_msgs --edit` on `Mon, 16 Mar 2020 21:13:50 -0000`
+
+The `pcl_msgs` package was released.
+
+Version of package(s) in repository `pcl_msgs`:
+
+- upstream repository: https://github.com/ros-perception/pcl_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.2.0-1`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## pcl_msgs (noetic) - 0.2.0-1
 
 The packages in the `pcl_msgs` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release --rosdistro noetic --track noetic pcl_msgs` on `Mon, 16 Mar 2020 20:55:34 -0000`
