@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
 project(pcl_msgs)
 
 # Deal with catkin
@@ -11,6 +11,8 @@ add_message_files(DIRECTORY msg
                         PolygonMesh.msg
                         Vertices.msg
 )
+add_service_files(DIRECTORY srv
+                  FILES UpdateFilename.srv)
 generate_messages(DEPENDENCIES sensor_msgs std_msgs)
 
 catkin_package(CATKIN_DEPENDS message_runtime sensor_msgs std_msgs)
